@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hell My$(id -un)"
+echo "hell MyUser"
